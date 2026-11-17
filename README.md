@@ -9,5 +9,7 @@ Apprendre Git et GitHub à travers un projet SIG.
 - Leaflet
 - OpenStreetMap
 
+## Méthodologie
+
 ## Auteur
 MBAILASSEM Eric
