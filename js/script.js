@@ -12,3 +12,7 @@
     L.marker([49.8941, 2.2958])
       .addTo(map)
       .bindPopup("Centre d'Amiens");
+
+    L.marker([49.9000, 2.3000])
+        .addTo(map)
+        .bindPopup("Deuxième point d'intérêt");
